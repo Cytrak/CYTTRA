@@ -11,16 +11,16 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-if(!q) return reply("*example play tionwayne we won*")
+if(!q) return reply("*example play position by blaiz fayah*")
 const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let desc = `*ASTA BOT SONG DOWNLOADER*
+let desc = `*CYTRA BOT SONG DOWNLOADER*
 
 ╭─❏ TITLE - ${data.title}
 ┣❐ ➤.🕺
-┗⬣ ASTA MD BOT
+┗⬣ CYTRA BOT
 © DAVE
 
 `
@@ -33,7 +33,7 @@ let downloadUrl = down.dl_url
 
 //send audio
 await conn.sendMessage(from,{audio:{url: downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
-await conn.sendMessage(from,{document:{url: downloadUrl},mimetype:"audio/mpeg",fileName:data.title + "mp3",caption:"©dave"},{quoted:mek})
+await conn.sendMessage(from,{document:{url: downloadUrl},mimetype:"audio/mpeg",fileName:data.title + "mp3",caption:"©cytra"},{quoted:mek})
 }catch(e){
 reply(`${e}`)
 }
@@ -55,7 +55,7 @@ const search = await yts(q)
 const data = search.videos[0]
 const url = data.url
 
-let des = `* ASTA BOT VIDEO DOWNLOADER *
+let des = `* CYTRA VIDEO DOWNLOADER *
 
 | ➤ TITLE - ${data.title}
 
@@ -78,7 +78,7 @@ let downloadUrl = down.dl_url
 
 //send video
 await conn.sendMessage(from,{video:{url: downloadUrl},mimetype:"video/mp4"},{quoted:mek})
-await conn.sendMessage(from,{document:{url: downloadUrl},mimetype:"video/mp4",fileName:data.title + "mp4",caption:"©dave"},{quoted:mek})
+await conn.sendMessage(from,{document:{url: downloadUrl},mimetype:"video/mp4",fileName:data.title + "mp4",caption:"©cytra"},{quoted:mek})
     
 }catch(a){
 reply(`${a}`)
