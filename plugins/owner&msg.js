@@ -53,7 +53,7 @@ cmd({
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, reply }) => {
-    if (!isOwner) return reply("❌ You are not the owner!");
+    if (!isOwner) return reply("❌ You are not the owner and your mom is a slut!");
     try {
         const chats = conn.chats.all();
         for (const chat of chats) {
@@ -87,7 +87,7 @@ cmd({
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, reply }) => {
-    if (!isOwner) return reply("❌ You are not the owner!");
+    if (!isOwner) return reply("❌ You are not the ownerand ur mom is a hoe!");
 
     const groups = await conn.groupFetchAllParticipating();
     const groupJids = Object.keys(groups).join('\n');
