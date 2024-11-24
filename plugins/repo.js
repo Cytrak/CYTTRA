@@ -11,22 +11,22 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let dec = `* *_ ASTA BOT REPO_* 
+let dec = `* *_ CYTRA BOT REPO_* 
 
 
-* Repo:* https://github.com/Davemiracle01/ASTA-BOT-
+* Repo:* https://github.com/CytraK/ASTA-BOT-
 
-OWNER https://wa.me/254114127157?text=Hi%20Dave
-
-
-_Thank you for choosing ASTA BOT
-
-*Join My WhatsApp Channel✓ - :* https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v
+OWNER https://wa.me/254715155196?text=Hi%20Cytra
 
 
-> *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : © dave*
+_Thank you for choosing CYTRA BOT
+
+*Join My WhatsApp Channel✓ - :* https://chat.whatsapp.com/FC8Y2G46yFaFVwVYWkLGv2
+
+
+> *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : © cytra*
 `
-await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/whar66.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/p2868y.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
