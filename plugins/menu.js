@@ -13,12 +13,12 @@ try{
 
 let dec = `
 
-╒──[ASTA BOT]
-│ ᴏᴡɴᴇʀ : dave 
-│ ɴᴜᴍʙᴇʀ: 254114127157
+╒──[CYTRA BOT]
+│ ᴏᴡɴᴇʀ : cytra
+│ ɴᴜᴍʙᴇʀ: 254715155196
 │ ᴘʀᴇғɪx: .
 ╰─────────────
-╭━ ASTA BOT COMMANDS 
+╭━ CYTRA COMMANDS 
 ┣❐ ➤.𝚂𝚝𝚒𝚌𝚔𝚎𝚛
 ┣❐ ➤.𝙰𝚒
 ┗⬣ 
@@ -53,10 +53,10 @@ let dec = `
 ┣❐ ➤.𝙼𝚎𝚗𝚞
 ┣❐ ➤.𝚁𝚎𝚙𝚘
 ┗⬣ 
-©dave
- thanks to the almighty 
+©cytra
+ thanks to the God
 `
-await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/whar66.jpg`},caption:dec},{quoted:mek});
+await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/p2868y.jpg`},caption:dec},{quoted:mek});
 
 }catch(e){
 console.log(e)
