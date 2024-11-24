@@ -31,12 +31,12 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             '',
             '* saving data *',
             ' Ensuring stealth no Trace should be left..._ ',
-            '*████████████████████████] 100 Finalized operations...* ',
+            '*████████████████████████] 100 Finalized operations..hacked completely.* ',
             '',
             '⚠️ done ✨.',
             '⚠️ *Reminder:* Ethical hacking is the only way to ensure security.',
             '',
-            '> *ASTA BOT HACKING-COMPLETE © dave ☣*'
+            '> *CYTRA MD-COMPLETE © Cytra☣*'
         ];
 
         for (const line of steps) {
