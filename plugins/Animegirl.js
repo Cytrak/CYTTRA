@@ -3,7 +3,7 @@ const { cmd, commands } = require('../command')
 const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson} = require('../lib/functions')
 const fs = require('fs');
 const axios = require('axios')
-var imgmsg = "*Give me a anime name !*"
+var imgmsg = "*Gimme a anime name !*"
 var descgs = "It gives details of given anime name."
 var cants = "I cant find this anime."
 
@@ -35,7 +35,7 @@ console.log(e)
 cmd({
     pattern: "waifu",
     alias: ["imgwaifu"],
-    react: '💫',
+    react: '🇰🇪',
     desc: "Download anime waifu images.",
     category: "anime",
     use: '.waifu',
