@@ -3,7 +3,7 @@ const {cmd , commands} = require('../command')
 
 cmd({
     pattern: "alive",
-    desc: "Check bot online or no.",
+    desc: "Check bot online or not.",
     category: "main",
     react: "⚔️",
     filename: __filename
@@ -11,16 +11,15 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let des = `sup ${pushname} ASTA BOT IS ONLINE 
+let des = `sup ${pushname} CYTRAMD IS ONLINE 
 
 | *Version*: 1.0.0
 | *Memory*: 38.09MB/7930MB
 | *Owner*: dave
-Hi im asta 
-my magic is never giving up 
-keep pushing past your limit 
+Hi im cytra
+my life is CoDM
 
- ©dave`
+ ©Cytra`
 return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption: des},{quoted: mek})
 }catch(e){
 console.log(e)
