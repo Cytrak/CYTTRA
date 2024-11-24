@@ -3,7 +3,7 @@ const { cmd } = require('../command');
 
 cmd({
     pattern: "fact",
-    desc: "🧠 Get a random fun fact",
+    desc: "🧠 Get a random fun fact motherfucker",
     react: "🧠",
     category: "fun",
     filename: __filename
@@ -25,6 +25,6 @@ Isn't that interesting? 😄
         return reply(funFact);
     } catch (e) {
         console.log(e);
-        return reply("⚠️error not available try again later ❌");
+        return reply("⚠️error not available try again later bitch ❌");
     }
 });
