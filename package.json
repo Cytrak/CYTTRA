@@ -1,7 +1,7 @@
 {
-  "name": "ASTA-BOT",
+  "name": "CYTRA",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By Dave",
+  "description": "A WhatsApp Bot Created By CYTRA",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name ASTA-BOT",
