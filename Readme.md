@@ -9,19 +9,14 @@
 
    </p>
 <p align="center">
-<a href="https://github.com/Davemiracle01"><img title="Author" src="https://img.shields.io/badge/Davemiracle01-yellow?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@Cytra_k9"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254114127157"><img title="Author" src="https://img.shields.io/badge/Contact Me-blue?style=for-the-badgelogo=whatsapp"></a>
-<p/> 
+<a href="https://github.com/CytraK"><img title="Author" src="https://img.shields.io/badge/CytraK-yellow?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@Cytra_k9"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254715155196"><img title="Author" src="https://img.shields.io/badge/Contact Me-blue?style=for-the-badgelogo=whatsapp"></a>
+<p/> you 
 
  
 <p align='center'>
     </p>
 <a><img src='https://telegra.ph/file/6238d670a279057951ba5.jpg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" alt='https:/github.com/DaT :: Visitor's Count"/></p>
-
----
 
 
 </a>
@@ -32,15 +27,15 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Davemiracle01/ASTA-BOT"><b>ASTA-MD</b></a> 
+  <a href="https://github.com/Cytrak/CYTTRA"><b>CYTRA-MD</b></a> 
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Support+Deployments+on...👇👇)](https://git.io/typing-svg)
 </p>
 
 <p align="center">
   <a href="https://github.com/Davemiracle01/ASTA-BOT/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Davemiracle01/ASTA-BOT/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href="https://youtube.com/@malvintech2"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/CytraK/CYTTRA/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://youtube.com/@Cytra_k9"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
   </a>
 </p>
  
@@ -62,7 +57,9 @@ use this ☝️☝️for the Alive img during deployment copy before deploying �
 
 
 <h2 align="left">𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
-`1.HEROKU`
+
+<a href="https://www.heroku.com/deploy/?template=https://github.com/Cytrak/CYTTRA"
+<button>HEROKU</button></a>
 
 
 
