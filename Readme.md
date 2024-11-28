@@ -4,7 +4,7 @@
 
 ***
 
-<p align = right>   <img src=""</p>
+<p align = right>   <img src="https://telegra.ph/file/6238d670a279057951ba5.jpg"</p>
 <p align="center">
 
    </p>
@@ -19,7 +19,7 @@
 <p align="center">
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" alt='https:/github.com/Davemiracle01/ASTA-BOT :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" alt='https:/github.com/DaT :: Visitor's Count"/></p>
 
 ---
 
@@ -87,29 +87,4 @@ use this ☝️☝️for the Alive img during deployment copy before deploying �
 
 
  
-
-***
-
-<h2 align="left">𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥</h2>
-<p style="text-align: center; font-size: 1.2em;">
-  <strong>Important:</strong> This bot is not affiliated with <em>WhatsApp Inc.</em> 
-  Misusing this bot may result in a <strong>ban</strong> on your WhatsApp account. 
-  Please note that accounts can only be unbanned once.
-</p>
-<p style="text-align: center; font-size: 1.2em;">
-  I am not responsible for any actions leading to the banning of your account. 
-  Use at your own risk, keeping this warning in mind.
-</p>
-
-***
-<h2 align="left">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
-<p style="text-align: center; font-size: 1.2em;">
-  <strong>Not For Sale</strong><br>
-  - If any plugin's code is obfuscated, you do not have permission to edit it in any form.<br>
-  - Please remember to give credit if you are using or re-uploading my plugins/files.<br>
-  - Wishing you a wonderful day ahead! 
-</p>
-    
-***
-
-</div>
+<p><b>``MADE BY CYTRA``</b></p>
