@@ -15,7 +15,7 @@
  
 <p align='center'>
     </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/6238d670a279057951ba5.jpg'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
 </p>
@@ -63,6 +63,21 @@ use this ☝️☝️for the Alive img during deployment copy before deploying �
 
 <h2 align="left">𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
 `1.HEROKU`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  
