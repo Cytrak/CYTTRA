@@ -59,7 +59,7 @@ use this ☝️☝️for the Alive img during deployment copy before deploying �
 <h2 align="left">𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
 
 <a href="https://www.heroku.com/deploy/?template=https://github.com/Cytrak/CYTTRA"
-<button>HEROKU</button></a>
+<button>HEROKU</button>/a>
 
 
 
