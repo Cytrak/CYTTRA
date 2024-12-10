@@ -52,9 +52,9 @@ let dec = `
 ┣❐ ➤.𝙾𝚠𝚗𝚎𝚛
 ┣❐ ➤.𝙼𝚎𝚗𝚞
 ┣❐ ➤.𝚁𝚎𝚙𝚘
-┗⬣ 
+┗⬣  ➤.hack
 ©cytra
- thanks to the God
+ thanks to  God
 `
 await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/p2868y.jpg`},caption:dec},{quoted:mek});
 
