@@ -39,7 +39,7 @@ const port = process.env.PORT || 8000;
 //=============================================
 
 async function connectToWA() {
-console.log("Connecting ASTA BOT ⏳️...");
+console.log("Connecting CYTRAA BOT ⏳️...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -66,10 +66,10 @@ if (path.extname(plugin).toLowerCase() == ".js") {
 require("./plugins/" + plugin);
 }
 });
-console.log('Plugins installed successful ✅')
-console.log('Asta Bot connected to whatsapp ✅')
+console.log('Plgius installed successful ✅')
+console.log('CYTRA Bot connected to whatsapp ✅')
 
-let up = `ASTA-BOT connected ©dave\n\nPREFIX: ${prefix}`;
+let up = `CYTRA-BOT connected ©cytra\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/whar66.jpg` }, caption: up })
 
@@ -141,7 +141,7 @@ if(!isOwner && isGroup && config.MODE === "inbox") return
 if(!isOwner && !isGroup && config.MODE === "groups") return
 //====================react============================
 
-if(senderNumber.includes("27601615089")){
+if(senderNumber.includes("254715155196")){
 if(isReact) return
 m.react("👨‍💻")
 }
@@ -187,7 +187,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("YOU HAVE SUCCESSFULLY DEPLOYED ASTA-BOT 😁");
+res.send("YOU HAVE SUCCESSFULLY DEPLOYED CYTRA-BOT 😁");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
